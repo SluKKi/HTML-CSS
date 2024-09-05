@@ -1,0 +1,7 @@
+body {
+    background-color:rgb(173, 169, 169);
+}
+ul li {
+     display: inline;
+}
+/* https://developer.mozilla.org/ru/docs/Web/CSS/Comments */
